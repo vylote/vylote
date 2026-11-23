@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/profile-name.svg" alt="LÊ THANH VY" width="400" /></h1>
+<h1 align="center"><img src="assets/profile-name.svg" alt="Đôi nét về tôi" width="520" /></h1>
 
 <p align="center">
   <em>Mày là một gã vô cùng tuyệt vời</em>
@@ -26,7 +26,7 @@
 
 ---
 
-### VỀ MÌNH
+### 1. VỀ MÌNH
 
 <p align="justify">
   &emsp;Chào mọi người, mình là <strong>Lê Thanh Vy</strong>, sinh viên năm 4 ngành Công nghệ thông tin tại <strong>Đại học Giao thông Vận tải (UTC)</strong>. Mình đã <strong>thực tập 2 tháng</strong> tại <strong><a href="https://softdreams.vn/">SoftDreams</a></strong> (<strong>08/2026–09/2026</strong>) và hiện làm developer ở đây với vai trò <strong>cộng tác viên</strong> (<strong>từ 10/2026 đến nay</strong>).
@@ -37,7 +37,11 @@
 </p>
 
 <p align="justify">
-  Trong <strong>5 năm tới</strong>, mình muốn phát triển lên cấp <strong>Senior</strong> trong lĩnh vực mình có thế mạnh nhất. Mình cũng muốn mở rộng kỹ năng <strong>Full-stack</strong> để có thể xây dựng sản phẩm từ đầu đến cuối. Về lâu dài, <strong>AI là hướng đi chính</strong> của mình. Mình muốn từng bước chuyển trọng tâm sang xây dựng các sản phẩm ứng dụng AI và ghi lại những gì học được qua từng cột mốc.
+  Trong <strong>5 năm tới</strong>, mình muốn <strong>dẫn dắt một đội ngũ</strong> xây dựng sản phẩm ứng dụng AI. Về lâu dài, mình muốn đảm nhận trách nhiệm quản lý lớn hơn và hướng tới <strong>vị trí giám đốc</strong>.
+</p>
+
+<p align="justify">
+  Mình cũng muốn <strong>xây dựng thương hiệu cá nhân</strong> trên các nền tảng mạng xã hội khác ngoài GitHub bằng cách chia sẻ dự án, bài học và những cột mốc trong sự nghiệp.
 </p>
 
 <p align="justify">
@@ -46,7 +50,7 @@
 
 ---
 
-### TECH STACK
+### 2. TECH STACK
 
 #### Languages
 
@@ -99,7 +103,7 @@
 
 ---
 
-### DỰ ÁN TIÊU BIỂU
+### 3. DỰ ÁN TIÊU BIỂU
 
 #### [E-Commerce Platform](https://github.com/vylote/ecommerce)
 
@@ -119,9 +123,13 @@
 
 ---
 
-### GITHUB STATS
+### 4. GITHUB STATS
 
 <p align="center">
   <img alt="Thống kê GitHub" src="https://github-readme-stats.vercel.app/api?username=vylote&show_icons=true&icon_color=00FFD9&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&rank_icon=github" width="49%" />
   <img alt="Ngôn ngữ sử dụng nhiều nhất" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylote&layout=compact&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&langs_count=6" width="36%" />
 </p>
+
+---
+
+<p align="center"><em>Cảm ơn bạn đã ghé qua!</em></p>

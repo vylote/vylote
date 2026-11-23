@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/profile-name.en.svg" alt="LE THANH VY" width="400" /></h1>
+<h1 align="center"><img src="assets/profile-name.en.svg" alt="A Little About Me" width="520" /></h1>
 
 <p align="center">
   <em>You're an amazing guy</em>
@@ -26,18 +26,22 @@
 
 ---
 
-### ABOUT ME
+### 1. ABOUT ME
 
 <p align="justify">
   &emsp;Hi, I'm <strong>Le Thanh Vy</strong>, a final-year Information Technology student at the <strong>University of Transport and Communications (UTC)</strong>. I completed a <strong>2-month internship</strong> at <strong><a href="https://softdreams.vn/">SoftDreams</a></strong> (<strong>August–September 2026</strong>) and currently work there as a <strong>contract developer</strong> (<strong>since October 2026</strong>).
 </p>
 
 <p align="justify">
-  I focus on backend development and enjoy working with <strong>Java</strong>, <strong>Python</strong>, and <strong>Node.js</strong>. As I finish my degree, I'm looking for an <strong>entry-level backend developer</strong> role.
+  I focus on backend development and enjoy working with <strong>Java</strong>, <strong>Python</strong>, and <strong>Node.js</strong>. As I finish my degree, I'm looking for an <strong>Entry-Level Backend Developer</strong> role.
 </p>
 
 <p align="justify">
-  Over the <strong>next five years</strong>, I aim to reach a <strong>senior role</strong> in the area where I can do my best work. I also want to build <strong>full-stack</strong> skills so I can develop products end to end. <strong>AI is my main long-term focus</strong>. I plan to shift my work toward building AI-powered products and document what I learn at each milestone.
+  Over the <strong>next five years</strong>, I want to <strong>lead a team</strong> working on AI-powered products. In the long run, I aspire to take on broader leadership responsibilities and grow into a <strong>director-level role</strong>.
+</p>
+
+<p align="justify">
+  I also want to <strong>build my personal brand</strong> beyond GitHub by sharing projects, lessons learned, and career milestones across other social platforms.
 </p>
 
 <p align="justify">
@@ -46,7 +50,7 @@
 
 ---
 
-### TECH STACK
+### 2. TECH STACK
 
 #### Languages
 
@@ -99,7 +103,7 @@
 
 ---
 
-### SELECTED PROJECTS
+### 3. SELECTED PROJECTS
 
 #### [E-Commerce Platform](https://github.com/vylote/ecommerce)
 
@@ -119,9 +123,13 @@
 
 ---
 
-### GITHUB STATS
+### 4. GITHUB STATS
 
 <p align="center">
   <img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=vylote&show_icons=true&icon_color=00FFD9&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&rank_icon=github" width="49%" />
   <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylote&layout=compact&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&langs_count=6" width="36%" />
 </p>
+
+---
+
+<p align="center"><em>Thanks for stopping by!</em></p>
