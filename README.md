@@ -1,11 +1,12 @@
-<h1 align="center">Lê Thanh Vy</h1>
+<h1 align="center"><img src="assets/profile-name.svg" alt="LÊ THANH VY" width="400" /></h1>
 
 <p align="center">
-  <em>Mày là một gã vô cùng tuyệt vời</em>
+  <em>You're an amazing guy</em>
 </p>
 
 <p align="center">
-  Ngôn ngữ · <strong>Tiếng Việt</strong> / <a href="README.en.md">English</a>
+  <a href="README.md"><img src="https://img.shields.io/badge/English-555?style=for-the-badge" alt="English" /></a>
+  <a href="README.vi.md"><img src="https://img.shields.io/badge/Ti%E1%BA%BFng_Vi%E1%BB%87t-e11d48?style=for-the-badge" alt="Tiếng Việt" /></a>
 </p>
 
 <p align="left">
@@ -22,15 +23,15 @@
 
 ---
 
-### Về mình
+### About Me
 
-Chào mọi người, mình là **Lê Thanh Vy**, sinh viên năm 4 ngành Công nghệ thông tin tại **Đại học Giao thông Vận tải (UTC)**. Sau hai tháng thực tập tại **SoftDreams**, mình hiện làm developer ở đây với vai trò cộng tác viên toàn thời gian.
+Hi, I'm **Lê Thanh Vy**, a final-year Information Technology student at the **University of Transport and Communications (UTC)**. I completed a **two-month internship** at **SoftDreams** (**August–September 2026**) and currently work there as a **contract developer** (**since October 2026, as of November 2026**).
 
-Thế mạnh của mình là phát triển backend. Mình thích làm việc với **Java**, **Python** và **Node.js**. Trong giai đoạn cuối đại học, mình đang tìm cơ hội ứng tuyển vị trí **Fresher Backend Developer**.
+I focus on backend development and enjoy working with **Java**, **Python**, and **Node.js**. As I finish my degree, I'm looking for an **entry-level backend developer** role.
 
-Trong 5 năm tới, mình muốn tiến xa nhất có thể trên con đường phát triển backend. Mỗi khi đạt một cột mốc mới, mình muốn ghi lại những gì đã làm và bài học rút ra trên chặng đường đó.
+Over the **next five years**, I aim to reach a **senior role** in the area where I can do my best work. I also want to build **full-stack** skills so I can develop products end to end. **AI is my main long-term focus**. I plan to shift my work toward building AI-powered products and document what I learn at each milestone.
 
-Ngoài công việc, mình đang học thêm về **cấu trúc dữ liệu và giải thuật (DSA)**, **Machine Learning (ML)** và **Deep Learning (DL)**.
+Outside of work, I'm studying **data structures and algorithms (DSA)**, **machine learning (ML)**, and **deep learning (DL)**.
 
 ---
 
@@ -68,11 +69,11 @@ Ngoài công việc, mình đang học thêm về **cấu trúc dữ liệu và 
 
 ---
 
-### Dự án nổi bật
+### Featured Projects
 
 #### [E-Commerce Platform](https://github.com/vylote/ecommerce)
 
-Nền tảng thương mại điện tử với realtime notification, giỏ hàng và thanh toán.
+An e-commerce platform with real-time notifications, a shopping cart, and payments.
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-24292F?style=flat&logo=springboot&logoColor=6DB33F) ![React](https://img.shields.io/badge/React-24292F?style=flat&logo=react&logoColor=61DAFB) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-24292F?style=flat&logo=rabbitmq&logoColor=FF6600) ![Socket.IO](https://img.shields.io/badge/Socket.IO-24292F?style=flat&logo=socketdotio&logoColor=F0F0F0) ![Docker](https://img.shields.io/badge/Docker-24292F?style=flat&logo=docker&logoColor=2496ED) ![MySQL](https://img.shields.io/badge/MySQL-24292F?style=flat&logo=mysql&logoColor=4479A1) ![Redis](https://img.shields.io/badge/Redis-24292F?style=flat&logo=redis&logoColor=FF4438)
 
@@ -80,7 +81,7 @@ Nền tảng thương mại điện tử với realtime notification, giỏ hàn
 
 #### [Multi-platform English Learning System](https://github.com/vylote/english-learning)
 
-Hệ thống học tiếng Anh đa nền tảng gồm web React, backend Node.js và ứng dụng Android native. Chấm bài tự động qua Groq AI, xử lý bất đồng bộ với Kafka.
+A cross-platform English learning system with a React web app, a Node.js backend, and a native Android app. It uses Groq AI for automated grading and Kafka for asynchronous processing.
 
 ![React 19](https://img.shields.io/badge/React%2019-24292F?style=flat&logo=react&logoColor=61DAFB) ![Express 5](https://img.shields.io/badge/Express%205-24292F?style=flat&logo=express&logoColor=F0F0F0) ![Java (Android)](https://img.shields.io/badge/Java%20%28Android%29-24292F?style=flat&logo=android&logoColor=3DDC84) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat&logo=postgresql&logoColor=4169E1) ![Kafka](https://img.shields.io/badge/Kafka-24292F?style=flat&logo=apachekafka&logoColor=F0F0F0) ![Redis](https://img.shields.io/badge/Redis-24292F?style=flat&logo=redis&logoColor=FF4438) ![Docker](https://img.shields.io/badge/Docker-24292F?style=flat&logo=docker&logoColor=2496ED)
 
@@ -89,6 +90,6 @@ Hệ thống học tiếng Anh đa nền tảng gồm web React, backend Node.js
 ### GitHub Stats
 
 <p align="center">
-  <img alt="Thống kê GitHub" src="https://github-readme-stats.vercel.app/api?username=vylote&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="54%" />
-  <img alt="Ngôn ngữ sử dụng nhiều nhất" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylote&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" />
+  <img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=vylote&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="54%" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylote&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" />
 </p>
