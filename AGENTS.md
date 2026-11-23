@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-The root `README.md` is the GitHub profile page. It contains the profile introduction, tech stack, featured projects, and GitHub statistics. Both languages share the title artwork in `assets/profile-name.svg`. Badges, icons, and statistics images use external URLs. The repository has no application source or test directory.
+The root `README.md` is the GitHub profile page. It contains the profile introduction, tech stack, featured projects, and GitHub statistics. Localized title artwork lives in `assets/profile-name*.svg`. Badges, icons, and statistics images use external URLs. The repository has no application source or test directory.
 
 ## Preview and Validation
 
