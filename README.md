@@ -29,7 +29,7 @@
 ### ABOUT ME
 
 <p align="justify">
-  Hi, I'm <strong>Le Thanh Vy</strong>, a final-year Information Technology student at the <strong>University of Transport and Communications (UTC)</strong>. I completed a <strong>two-month internship</strong> at <strong><a href="https://softdreams.vn/">SoftDreams</a></strong> (<strong>August–September 2026</strong>) and currently work there as a <strong>contract developer</strong> (<strong>since October 2026, as of November 2026</strong>). SoftDreams builds software to automate business operations, including electronic invoicing, accounting, and digital signatures.
+  &emsp;Hi, I'm <strong>Le Thanh Vy</strong>, a final-year Information Technology student at the <strong>University of Transport and Communications (UTC)</strong>. I completed a <strong>2-month internship</strong> at <strong><a href="https://softdreams.vn/">SoftDreams</a></strong> (<strong>August–September 2026</strong>) and currently work there as a <strong>contract developer</strong> (<strong>since October 2026</strong>).
 </p>
 
 <p align="justify">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="justify">
-  Outside of work, I'm studying <strong>data structures and algorithms (DSA)</strong>, <strong>machine learning (ML)</strong>, and <strong>deep learning (DL)</strong>.
+  To prepare for a transition into <strong>AI</strong>, I'm strengthening my foundation in <strong>data structures and algorithms (DSA)</strong> and studying <strong>machine learning (ML)</strong> and <strong>deep learning (DL)</strong> to learn how to train, evaluate, and apply models in real products.
 </p>
 
 ---
@@ -76,6 +76,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
@@ -98,7 +99,7 @@
 
 ---
 
-### FEATURED PROJECTS
+### SELECTED PROJECTS
 
 #### [E-Commerce Platform](https://github.com/vylote/ecommerce)
 
@@ -121,6 +122,6 @@
 ### GITHUB STATS
 
 <p align="center">
-  <img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=vylote&show_icons=true&icon_color=00FFD9&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&rank_icon=github" width="43%" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylote&layout=compact&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&langs_count=6" width="32%" />
+  <img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=vylote&show_icons=true&icon_color=00FFD9&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&rank_icon=github" width="49%" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylote&layout=compact&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&langs_count=6" width="36%" />
 </p>

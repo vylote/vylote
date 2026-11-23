@@ -29,7 +29,7 @@
 ### VỀ MÌNH
 
 <p align="justify">
-  Chào mọi người, mình là <strong>Lê Thanh Vy</strong>, sinh viên năm 4 ngành Công nghệ thông tin tại <strong>Đại học Giao thông Vận tải (UTC)</strong>. Mình đã <strong>thực tập hai tháng</strong> tại <strong><a href="https://softdreams.vn/">SoftDreams</a></strong> (<strong>08/2026–09/2026</strong>) và hiện làm developer ở đây với vai trò <strong>cộng tác viên</strong> (<strong>từ 10/2026 đến nay, 11/2026</strong>). SoftDreams phát triển phần mềm giúp doanh nghiệp tự động hóa các nghiệp vụ như lập hóa đơn điện tử, quản lý kế toán và ký số.
+  &emsp;Chào mọi người, mình là <strong>Lê Thanh Vy</strong>, sinh viên năm 4 ngành Công nghệ thông tin tại <strong>Đại học Giao thông Vận tải (UTC)</strong>. Mình đã <strong>thực tập 2 tháng</strong> tại <strong><a href="https://softdreams.vn/">SoftDreams</a></strong> (<strong>08/2026–09/2026</strong>) và hiện làm developer ở đây với vai trò <strong>cộng tác viên</strong> (<strong>từ 10/2026 đến nay</strong>).
 </p>
 
 <p align="justify">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="justify">
-  Ngoài công việc, mình đang học thêm về <strong>cấu trúc dữ liệu và giải thuật (DSA)</strong>, <strong>Machine Learning (ML)</strong> và <strong>Deep Learning (DL)</strong>.
+  Để từng bước chuyển sang lĩnh vực <strong>AI</strong>, mình đang củng cố nền tảng <strong>cấu trúc dữ liệu và giải thuật (DSA)</strong>, đồng thời học <strong>Machine Learning (ML)</strong> và <strong>Deep Learning (DL)</strong> để hiểu cách huấn luyện, đánh giá và ứng dụng mô hình vào sản phẩm thực tế.
 </p>
 
 ---
@@ -76,6 +76,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
@@ -98,7 +99,7 @@
 
 ---
 
-### DỰ ÁN NỔI BẬT
+### DỰ ÁN TIÊU BIỂU
 
 #### [E-Commerce Platform](https://github.com/vylote/ecommerce)
 
@@ -121,6 +122,6 @@
 ### GITHUB STATS
 
 <p align="center">
-  <img alt="Thống kê GitHub" src="https://github-readme-stats.vercel.app/api?username=vylote&show_icons=true&icon_color=00FFD9&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&rank_icon=github" width="43%" />
-  <img alt="Ngôn ngữ sử dụng nhiều nhất" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylote&layout=compact&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&langs_count=6" width="32%" />
+  <img alt="Thống kê GitHub" src="https://github-readme-stats.vercel.app/api?username=vylote&show_icons=true&icon_color=00FFD9&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&rank_icon=github" width="49%" />
+  <img alt="Ngôn ngữ sử dụng nhiều nhất" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylote&layout=compact&title_color=00FFD9&text_color=DCE7F2&bg_color=0D1520&hide_border=true&langs_count=6" width="36%" />
 </p>
